@@ -1,0 +1,31 @@
+{
+
+    "blogs":[
+    
+        {
+            "title": "TypeScript",
+            "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore repellat commodi deleniti laudantium, ducimus ipsum vitae? Ea est eligendi vero sapiente suscipit, voluptatem hic accusantium, itaque, libero ipsum perferendis....  Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti totam excepturi quasi adipisci. Magnam laborum distinctio dolor totam deleniti adipisci animi voluptas cupiditate quos sequi vel nulla sint ad, iure ipsa ab consectetur corporis quas rerum. Vero, repellat corporis repudiandae unde consequuntur libero voluptatem neque atque ratione iste, natus rerum. Ahsan   Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti totam excepturi quasi adipisci. Magnam laborum distinctio dolor totam deleniti adipisci animi voluptas cupiditate quos sequi vel nulla sint ad, iure ipsa ab consectetur corporis quas rerum. Vero, repellat corporis repudiandae unde consequuntur libero voluptatem neque atque ratione iste, natus rerum.",
+            "author": "Zia Khan",
+            "id": 1
+          },
+          {
+            "title": "Next JS",
+            "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore repellat commodi deleniti laudantium, ducimus ipsum vitae? Ea est eligendi vero sapiente suscipit, voluptatem hic accusantium, itaque, libero ipsum perferendis.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti totam excepturi quasi adipisci. Magnam laborum distinctio dolor totam deleniti adipisci animi voluptas cupiditate quos sequi vel nulla sint ad, iure ipsa ab consectetur corporis quas rerum. Vero, repellat corporis repudiandae unde consequuntur libero voluptatem neque atque ratione iste, natus rerum. Ahsan   Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti totam excepturi quasi adipisci. Magnam laborum distinctio dolor totam deleniti adipisci animi voluptas cupiditate quos sequi vel nulla sint ad, iure ipsa ab consectetur corporis quas rerum. Vero, repellat corporis repudiandae unde consequuntur libero voluptatem neque atque ratione iste, natus rerum.",
+            "author": "Daniyan Nagori",
+            "id": 2
+          }
+         ,
+          {
+            "title": "Metaverse",
+            "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore repellat commodi deleniti laudantium, ducimus ipsum vitae? Ea est eligendi vero sapiente suscipit, voluptatem hic accusantium, itaque, libero ipsum perferendis.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti totam excepturi quasi adipisci. Magnam laborum distinctio dolor totam deleniti adipisci animi voluptas cupiditate quos sequi vel nulla sint ad, iure ipsa ab consectetur corporis quas rerum. Vero, repellat corporis repudiandae unde consequuntur libero voluptatem neque atque ratione iste, natus rerum. Ahsan   Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti totam excepturi quasi adipisci. Magnam laborum distinctio dolor totam deleniti adipisci animi voluptas cupiditate quos sequi vel nulla sint ad, iure ipsa ab consectetur corporis quas rerum. Vero, repellat corporis repudiandae unde consequuntur libero voluptatem neque atque ratione iste, natus rerum.",
+            "author": "Ahsan Raza",
+            "id": 3
+          },
+          {
+            "title": "Web 3.0",
+            "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore repellat commodi deleniti laudantium, ducimus ipsum vitae? Ea est eligendi vero sapiente suscipit, voluptatem hic accusantium, itaque, libero ipsum perferendis.   Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti totam excepturi quasi adipisci. Magnam laborum distinctio dolor totam deleniti adipisci animi voluptas cupiditate quos sequi vel nulla sint ad, iure ipsa ab consectetur corporis quas rerum. Vero, repellat corporis repudiandae unde consequuntur libero voluptatem neque atque ratione iste, natus rerum.",
+            "author": "Ahsan Raza",
+            "id": 3
+          }
+    ]
+}
